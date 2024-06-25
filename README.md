@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking for job
-- 📫 How to reach me linkedin.com/in/gargichaudhari06/
+- 📫 How to reach me : linkedin: [linkedin.com/in/gargichaudhari06/](https://www.linkedin.com/in/gargichaudhari06/)
 
 <!---
 gargi0611/gargi0611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
